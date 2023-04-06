@@ -3,7 +3,7 @@
 [title]: <> (我在加密世界的一些个人体验)
 [pandoc]: <> (--mathjax)
 
-_译者：wonder @[GreenPill CN](https://twitter.com/GreenpillCN)_
+_译者：wonder@[GreenPill CN](https://twitter.com/GreenpillCN)_
 
 _原文：[https://vitalik.ca/general/2022/10/28/revenue_evil.html](https://vitalik.ca/general/2022/10/28/revenue_evil.html)_
 
